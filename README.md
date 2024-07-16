@@ -12,6 +12,9 @@ Currently, two official plugins are available:
 
 This project is a React-based dashboard for analyzing SMS responses. It allows users to generate sample responses, classify them, and compare the results between a current system and an AI model.
 
+![Image Description](https://drive.google.com/uc?export=view&id=19Q8_k70bNPLlCsQ4ILRTsjY-F-e8n9aH)
+
+
 ## Features
 
 - Response generator with adjustable parameters
