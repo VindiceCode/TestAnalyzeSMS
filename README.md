@@ -32,11 +32,11 @@ To install the SMS Analysis Dashboard, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/sms-analysis-dashboard.git
+   git clone https://github.com/yourusername/TestAnalyzeSMS.git
    ```
 2. Navigate to the project directory:
    ```
-   cd sms-analysis-dashboard
+   cd TestAnalyzeSMS
    ```
 3. Install the dependencies:
    ```
@@ -74,23 +74,3 @@ npm run lint
 ```
 
 This will check your JavaScript and JSX files for potential errors and style issues.
-
-## Contributing to SMS Analysis Dashboard
-
-To contribute to SMS Analysis Dashboard, follow these steps:
-
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
-
-Alternatively, see the GitHub documentation on [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
-
-## Contact
-
-If you want to contact me, you can reach me at `<your_email@example.com>`.
-
-## License
-
-This project uses the following license: [MIT License](<link_to_license>).
